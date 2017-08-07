@@ -1,0 +1,22 @@
+Using ARRAY manipulation
+Program1 : basic encryption
+Program1b: more advanced version of program1
+Program1c: more advanced version of program1b, my attempt at salting didn't work.. YET
+
+Using variables (like you asked for origionally)
+program1_variables
+
+
+I'm going to perfect my origional code using arrays. Just didn't have the time with other classes right now, and I just wanted to go ahead and complete the assignment
+the way you origionally asked for, using variable manipulation.
+
+But, I also wanted to show you my approach using Arrays, I just didn't have time to go in and use concatenation to connect salted letters and numbers to the end of each
+index in my arrays.
+
+Like I said, I will get to that eventually just for future use and personal knowledge and acheivment of it!
+
+Dylan Hall
+Program1
+Prog. for Engineers
+Prof. Russel
+9/11/16

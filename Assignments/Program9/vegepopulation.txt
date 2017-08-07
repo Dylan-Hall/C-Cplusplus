@@ -1,0 +1,7 @@
+tomato		52320	4.62
+cabbage		126333	10.32
+mushroom	8620	1.61
+cauliflower	23510	3.35
+potato		72883	8.11
+radish		12912	2.00
+zucchini	220357	14.66
