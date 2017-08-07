@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+### author: Dylan Hall
+### date: 8/7/2017
 
-You can use the [editor on GitHub](https://github.com/Dylan-Hall/C-Cplusplus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# This is my GitHub Page containing the link to, and descriptions for my portfolio.
+  - This branch is specific for C and C++ projects, assignments and programs.
+  - This is purely non-distrubtable, their is no licenesed software or distributable code within.
+  - Solely used to display and maintain my portofolio.
 
 ### Markdown
 
