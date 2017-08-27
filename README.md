@@ -25,3 +25,8 @@
               
   VI)     Sorting:
               An assortment of common sorting algorithms, along with their Run time complexity. 
+### - Links -
+
+  My Portfolio: https://dylan-hall.github.io/portfolio/
+      @Copy-right: Dylan Hall
+      @Version: 1.2.b; 8/27/2017
